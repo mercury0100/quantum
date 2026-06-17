@@ -9,12 +9,6 @@ A derivation of the most important laws of quantum physics using nothing but a p
 
 This book began as graduate lecture notes and became something else: an argument that quantum mechanics is not a collection of weird facts imposed on us by experiment, but the inevitable destination of classical mechanics taken seriously enough. Starting from a mass on a spring, and following the logic wherever it goes, we arrive at the Dirac equation in seven steps.
 
-## The argument
-
-Two experimental inputs — Planck's quantisation and Born's rule — and everything else follows. A spring becomes a field. A field becomes a wave. A wave becomes a particle. A particle becomes a spinor. Spin and antimatter appear unrequested.
-
-This is not what a mathematician would consider rigorous. But we are physicists, and infinity, to us, is just a large number.
-
 ## Contents
 
 | Part | Topic |
